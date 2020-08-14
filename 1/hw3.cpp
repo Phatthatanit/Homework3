@@ -46,4 +46,4 @@ int main() {
 	else {
 		printf("%s 6301%ld NoRoom BMI is  %.2lf", name, idstudent, x);
 	}
-}
+} 
